@@ -1,4 +1,4 @@
-package com.gooner.joke.jokeapp;
+package com.gooner.joke;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
